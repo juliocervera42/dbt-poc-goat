@@ -1,0 +1,8 @@
+
+version: 2
+
+models:
+  - name: denue_1
+    data_tests:
+      - no_special_characters
+
